@@ -1,0 +1,51 @@
+{
+  "nav":{
+    "menu":["Personal","Education","Professional","Skills","Family","Spiritual","Contact"]
+  },
+  "hero":{
+    "btns":["Get To Know Me","Let's Connect"]
+  },
+  "personal": {
+    "title": "Personal Information",
+    "tabs":[
+      ["Basic Details","Date of Birth","Place of Birth","Height"],
+      ["Lifestyle & Values","Dietary Preference","Lifestyle"],
+      "Spiritual Inclination",
+      "Life Goal & Vision"
+    ],
+    "title2": "Photo Gallery",
+    "description":"View more photos to get a better sense of who I am",
+    "btns":["Browse Photos","Previous","of","Next"]
+  },
+
+  "education": {
+    "title": "Educational Journey",
+    "title2": "Academic Qualification"
+  },
+  "professional": {
+    "title": "Professional Background",
+    "tabs": ["Experience"],
+    "title2": "Professional Strengths"
+  },
+  "skills": {
+    "title": "Skills & Technical Expertise",
+    "description":"Click on any skill category to see detailed explanations in simple terms"
+  },
+  "family": {
+    "title": "Family Background",
+    "description":"Learn about our family values, traditions, and background",
+    "btn": "View Family Details",
+    "tabs": ["Our Family","Name","Profession","Father","Mother","Family Values & Traditions"]
+  },
+  "spiritual": {
+    "title": "Spiritual Journey"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "tabs": ["Email","Location"],
+    "texts": [
+      "Crafted with passion, driven by purpose.",
+      "A journey of technical excellence grounded in spiritual values."
+    ]
+  }
+}
